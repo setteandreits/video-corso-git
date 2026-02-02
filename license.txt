@@ -1,0 +1,8 @@
+Licenza MIT
+Copyright (c) [2026] [SETTE ANDREA]
+
+Con la presente si concede a chiunque ottenga una copia di questo software e dei file di documentazione associati (il "Software"), l'autorizzazione a utilizzare il Software senza restrizioni, inclusi, senza limitazione, i diritti di utilizzare, copiare, modificare, fondere, pubblicare, distribuire, sottolicenziare e/o vendere copie del Software, e di consentire alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
+
+L'informativa sul copyright di cui sopra e questa informativa di autorizzazione devono essere incluse in tutte le copie o parti sostanziali del Software.
+
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPLICITE O IMPLICITE, INCLUSE, MA NON LIMITATE A, GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UN FINE PARTICOLARE E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEL COPYRIGHT SARANNO RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRA RESPONSABILITÀ, SIA IN UN'AZIONE DI CONTRATTO, ILLECITO O ALTRO, DERIVANTE DA, DA O IN CONNESSIONE CON IL SOFTWARE O L'USO O ALTRI RAPPORTI NEL SOFTWARE.
