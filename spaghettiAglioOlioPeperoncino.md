@@ -5,4 +5,6 @@ un piatto incredibile
 *aglio
 *olio
 *peperoncino
-prezzemolo
+*prezzemolo
+*miele
+*sapone
