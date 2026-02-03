@@ -5,3 +5,4 @@
 
 * Pennette alla carbonara
 
+* minestrone di verdure
