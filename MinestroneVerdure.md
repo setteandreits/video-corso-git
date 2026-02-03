@@ -1,3 +1,4 @@
+
 #Minestrone di Verdure
 il minestone di carne non va bene 
 ##Ingredienti
@@ -5,3 +6,5 @@ il minestone di carne non va bene
 *sedano
 *carote
 *sale
+*patate 
+*peperoni
