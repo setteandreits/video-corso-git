@@ -6,5 +6,5 @@ la famosa pasta romana
 
 *penne
 *uova
-*pancetta
+*guanciale
 *pepe
